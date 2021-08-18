@@ -5,6 +5,10 @@ I am a software engineer, specialized in frontend development, with experience b
 ## 📕 My Latest Post
 [The power of CSS pseudo-elements before and after](https://blog.codeminer42.com/the-power-of-the-before-and-after-css-pseudo-elements)
 
+## 🔎 Study Cases
+### [Task Manager](https://github.com/mateusbw/tsk-manager)
+In this study case, I use the concepts of the Domain-Driven Design to develop a task manager. The application was built with TypeScript, React and Redux.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
