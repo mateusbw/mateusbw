@@ -5,6 +5,8 @@ I am a software engineer, specialized in frontend development, with experience b
 ## 📕 My Latest Post
 [The power of CSS pseudo-elements before and after](https://blog.codeminer42.com/the-power-of-the-before-and-after-css-pseudo-elements)
 
+[Enhancing User Experience with Dynamic iFrame Height](https://blog.codeminer42.com/enhancing-user-experience-with-dynamic-iframe-height/)
+
 ## 🔎 Study Cases
 ### [Task Manager](https://github.com/mateusbw/tsk-manager)
 In this study case, I use the concepts of the Domain-Driven Design to develop a task manager. The application was built with TypeScript, React and Redux.
