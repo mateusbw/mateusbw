@@ -11,6 +11,13 @@ I am a software engineer, specialized in frontend development, with experience b
 ### [Task Manager](https://github.com/mateusbw/tsk-manager)
 In this study case, I use the concepts of the Domain-Driven Design to develop a task manager. The application was built with TypeScript, React and Redux.
 
+## 🖥️ Some of my work
+### [LR Brushing Website](https://www.lrbrushing.com.br/)
+LR Brusing is a mobile-first landing page with the goal of selling a makeup course. The application was built with NextJs and Tailwind.
+
+### [Bomtalpresets Website](https://www.bomtalpresets.com.br/)
+Bomtalpresets is a mobile-first landing page with the goal of selling Instagram filters. One of the features requested by the customer was the ability to preview how each filter works. The application was built with NextJs and Tailwind.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
